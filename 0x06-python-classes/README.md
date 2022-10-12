@@ -9,12 +9,12 @@ As usual, make sure you type (never copy and paste), test, understand all exampl
 
 # Resources
 # Read or watch:
-* [Object Oriented Programming] (https://alx-intranet.hbtn.io/rltoken/i49z6HxrBGRNnixo7ZWbEQ) (Read everything until the paragraph “Inheritance” excluded. You do NOT have to learn about class attributes, classmethod and staticmethod yet)
-* [bject-Oriented Programming] (https://alx-intranet.hbtn.io/rltoken/qz3KSn154ia4H2DPaabOzg) (Please *be careful*: in most of the following paragraphs, the author shows things the way you should not use or write a class in order to help you better understand some concepts and how everything works in Python 3. Make sure you read everything in the following paragraphs: General Introduction, First-class Everything, A Minimal Class in Python, Attributes (You DON’T have to learn about class attributes), Methods, The __init__ Method, “Data Abstraction, Data Encapsulation, and Information Hiding,” “Public, Protected, and Private Attributes”)
-* [Properties vs. Getters and Setters] (https://alx-intranet.hbtn.io/rltoken/Wy2djWXK5b4rnnYlAq_wlA)
-* [Learn to Program 9 : Object Oriented Programming] (https://alx-intranet.hbtn.io/rltoken/MxIOanLf5vG5QeCWek2nqQ)
-* [Python Classes and Objects] (https://alx-intranet.hbtn.io/rltoken/AoLH4xp5StrQST-Cu0Fg8w)
-* [Object Oriented Programming] (https://alx-intranet.hbtn.io/rltoken/-vVnWzwR3a3X0H8Oia78Ug)
+* [Object Oriented Programming] (/https://alx-intranet.hbtn.io/rltoken/i49z6HxrBGRNnixo7ZWbEQ) (Read everything until the paragraph “Inheritance” excluded. You do NOT have to learn about class attributes, classmethod and staticmethod yet)
+* [bject-Oriented Programming] /(https://alx-intranet.hbtn.io/rltoken/qz3KSn154ia4H2DPaabOzg) (Please *be careful*: in most of the following paragraphs, the author shows things the way you should not use or write a class in order to help you better understand some concepts and how everything works in Python 3. Make sure you read everything in the following paragraphs: General Introduction, First-class Everything, A Minimal Class in Python, Attributes (You DON’T have to learn about class attributes), Methods, The __init__ Method, “Data Abstraction, Data Encapsulation, and Information Hiding,” “Public, Protected, and Private Attributes”)
+* [Properties vs. Getters and Setters] (/https://alx-intranet.hbtn.io/rltoken/Wy2djWXK5b4rnnYlAq_wlA)
+* [Learn to Program 9 : Object Oriented Programming] (/https://alx-intranet.hbtn.io/rltoken/MxIOanLf5vG5QeCWek2nqQ)
+* [Python Classes and Objects] (/https://alx-intranet.hbtn.io/rltoken/AoLH4xp5StrQST-Cu0Fg8w)
+* [Object Oriented Programming] (/https://alx-intranet.hbtn.io/rltoken/-vVnWzwR3a3X0H8Oia78Ug)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
@@ -61,4 +61,4 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 * All your functions (inside and outside a class) should have a documentation (python3 -c 'print(__import__("my_module").my_function.__doc__)' and python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)')
 * A documentation is not a simple word, it’s a real sentence explaining what’s the purpose of the module, class or method (the length of it will be verified)
 #More Info
-Documentation is now mandatory! Each module, class, and method must contain docstring as comments. [Example Google Style Python Docstrings] (https://alx-intranet.hbtn.io/rltoken/dOO785g5EQYkRU2E1wri0g)
+Documentation is now mandatory! Each module, class, and method must contain docstring as comments. [Example Google Style Python Docstrings] (/https://alx-intranet.hbtn.io/rltoken/dOO785g5EQYkRU2E1wri0g)
