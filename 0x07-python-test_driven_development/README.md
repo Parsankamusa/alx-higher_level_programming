@@ -1,7 +1,5 @@
 # 0x07. Python - Test-driven development
-
 ![](![image](https://user-images.githubusercontent.com/91263172/196546649-630017fc-186f-456f-bbee-56f18467a3a3.png)
-)
 
 # Background Context
 # Important notice on intranet checks for Python projects
