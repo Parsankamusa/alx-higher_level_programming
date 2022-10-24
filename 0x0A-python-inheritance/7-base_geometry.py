@@ -3,7 +3,6 @@
 Creates a BaseGeometry class.
 """
 
-
 class BaseGeometry:
     """Class with public instance methods."""
 
